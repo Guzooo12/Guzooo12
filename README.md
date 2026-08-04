@@ -1,5 +1,9 @@
 <div align="center">
 
+🇧🇷 **Português** · [🇺🇸 English](./README.en.md)
+
+<br />
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050611,45:176BFF,100:A855F7&text=GHL.DEV&fontColor=F5F7FF&fontSize=58&fontAlignY=38&desc=curiosidade%20%E2%86%92%20c%C3%B3digo%20%E2%86%92%20projetos%20reais&descAlignY=59&descSize=17&animation=fadeIn" alt="GHL.dev" />
 
 <a href="https://git.io/typing-svg">
@@ -12,7 +16,7 @@
 
 Sou **Gustavo Henrique Lima**, estudante de Engenharia de Software e desenvolvedor em formação com foco atual em **Back-end Python**.
 
-Aprendo melhor colocando a mão no código, investigando problemas e transformando ideias em sistemas reais. Atualmente construo APIs e aplicações web enquanto aprofundo meus conhecimentos em arquitetura, banco de dados, cloud e segurança.
+Aprendo melhor colocando a mão no código, investigando problemas e transformando ideias em sistemas reais. Atualmente construo APIs e aplicações web enquanto aprofundo meus conhecimentos em arquitetura de software, banco de dados, computação em nuvem e segurança.
 
 ```python
 class Gustavo:
@@ -51,9 +55,9 @@ class Gustavo:
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [API da Defensoria](https://github.com/Guzooo12/teste-defensoria-api) | API REST com consumo de serviços externos, validações, tratamento de exceções e documentação automática. | Python, FastAPI, SQLAlchemy |
-| [Valorant Player Stats](https://github.com/Guzooo12/valorant-player-stats) | Aplicação para consumir dados de partidas e gerar métricas sobre histórico e evolução de MMR. | Python, APIs REST, PostgreSQL |
-| **Ridolfi Advogados** | Sistema jurídico para gestão de clientes, processos, agenda, tarefas e documentos. | FastAPI, PostgreSQL, React |
+| [API da Defensoria](https://github.com/Guzooo12/teste-defensoria-api) | API REST que consome serviços externos e disponibiliza dados estruturados, com validações, tratamento de exceções e documentação automática. | Python, FastAPI, SQLAlchemy |
+| [Valorant Player Stats](https://github.com/Guzooo12/valorant-player-stats) | Aplicação que consome dados de partidas e gera métricas sobre histórico e evolução de MMR. | Python, APIs REST, PostgreSQL |
+| **Ridolfi Advogados** | Sistema jurídico para gestão de clientes, processos, agenda, tarefas e documentos, com dashboard gerencial e arquitetura em camadas. | FastAPI, PostgreSQL, React |
 
 ## `credentials.verify()`
 
@@ -64,7 +68,7 @@ class Gustavo:
 
 <div align="center">
 
-[![Credly](https://img.shields.io/badge/Ver%20perfil%20no%20Credly-050611?style=for-the-badge&logo=credly&logoColor=36A3FF)](https://www.credly.com/users/ghl/badges/credly)
+[![Credly](https://img.shields.io/badge/Ver%20meu%20perfil%20no%20Credly-050611?style=for-the-badge&logo=credly&logoColor=36A3FF)](https://www.credly.com/users/ghl/badges/credly)
 
 </div>
 
@@ -74,18 +78,11 @@ class Gustavo:
 
 [![Portfólio](https://img.shields.io/badge/GHL.DEV-176BFF?style=for-the-badge&logo=vercel&logoColor=white)](https://ghl-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050611?style=for-the-badge&logo=linkedin&logoColor=36A3FF)](https://linkedin.com/in/gustavo-passerini-53b636340)
-[![GitHub](https://img.shields.io/badge/GitHub-050611?style=for-the-badge&logo=github&logoColor=F5F7FF)](https://github.com/Guzooo12)
+[![Credly](https://img.shields.io/badge/Credly-050611?style=for-the-badge&logo=credly&logoColor=A855F7)](https://www.credly.com/users/ghl/badges/credly)
 [![E--mail](https://img.shields.io/badge/Contato-050611?style=for-the-badge&logo=gmail&logoColor=A855F7)](mailto:gustavopasserini0@gmail.com)
 
 <br />
 
-```text
-while (aprendendo) {
-    construir();
-    melhorar();
-}
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:A855F7,55:176BFF,100:050611" alt="" />
+<sub>Construindo, aprendendo e melhorando — um projeto por vez.</sub>
 
 </div>
