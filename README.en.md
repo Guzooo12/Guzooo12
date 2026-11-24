@@ -1,47 +1,43 @@
-<p align="right"><a href="./README.md">Português</a> · <strong>English</strong></p>
+<p align="right"><a href="./README.md">PT</a> · <strong>EN</strong></p>
 
-<img align="right" width="155" src="https://ghl-dev.vercel.app/assets/atelier/guz-pc.png" alt="Illustration of Gustavo holding a laptop" />
+<p align="center">
+  <a href="https://ghl-dev.vercel.app/"><img src="https://ghl-dev.vercel.app/assets/atelier/guz-pc.png" width="270" alt="Illustration of Gustavo wearing glasses and holding a laptop" /></a>
+</p>
 
-Gustavo Passerini
+<h1 align="center">I build ideas that <em>work.</em></h1>
 
-I build ideas that work.
+<p align="center">
+  <strong>Hey, I'm Gustavo Passerini.</strong><br />
+  I build automations in Python at Britânia and study Software Engineering at UNINTER.
+</p>
 
-I work on automation and Python development at Britânia and study Software Engineering at UNINTER. I like taking an everyday problem, figuring out how the process works, and building something that makes it easier.
+<p align="center">
+  <a href="https://ghl-dev.vercel.app/"><strong>GHL.dev</strong></a>
+  &nbsp;·&nbsp; <a href="https://ghl-dev.vercel.app/curriculo-gustavo-passerini.pdf">Résumé in Portuguese</a>
+  &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/gustavo-lima-53b636340/">LinkedIn</a>
+</p>
 
- Résumé in Portuguese · LinkedIn · Email
+What I'm building
 
-<br clear="all" />
+What happens when an item in an order is out of stock? At Britânia, I'm building an automation that uses embeddings and Qdrant to find similar products in the catalog and suggest a substitute to the customer.
 
-What I work on
+I also built an MVP for a technical onboarding portal with Next.js and NestJS. Before that, at Contego CyberSecurity, I integrated the Acronis and Sophos APIs to bring protection, incident, and backup metrics into one dashboard.
 
-Britânia · I'm building an automation for orders with out-of-stock items. I use embeddings and Qdrant to find similar products in the catalog and offer customers a substitute. I also built an MVP for a technical onboarding portal using Next.js and NestJS APIs.
+Projects I'd show you
 
-Contego CyberSecurity · During my previous internship, I integrated Acronis and Sophos APIs to bring protection, incident, and backup metrics from multiple environments into one dashboard.
+Practice management for Ridolfi Advogados · In development
+An app to keep the firm's clients, cases, calendars, and documents together.
+FastAPI · PostgreSQL · React
 
-Selected projects
+Public Defender's Office API · Technical challenge
+An API that pulls data from external services, validates it, and returns a structured response.
+Python · FastAPI
 
-Project
+Valorant Player Stats · Learning project
+I used match data to explore players' match histories and how their MMR changed over time.
+Python · REST APIs · PostgreSQL
 
-What I'm building or exploring
-
-Legal Practice Management System
-
-In development. A system for Ridolfi Advogados to manage clients, cases, calendars, and documents in one place. FastAPI, PostgreSQL, and React.
-
-Public Defender's Office API
-
-Technical challenge. A REST API that retrieves data from external services and returns structured results, with validation, error handling, and automatic documentation. Python and FastAPI.
-
-Valorant Player Stats
-
-Learning project. I used match data to explore players' match histories and track changes in their MMR. Python, REST APIs, and PostgreSQL.
-
-Tools I use
-
-Back end and data · Python, FastAPI, Node.js, NestJS, PostgreSQL, and SQL Server
-Web and development · TypeScript, React, Next.js, Git, and Docker
-Semantic search · Embeddings and Qdrant
-
-Python Essentials 2 · Cisco
-
-🐾 My cats Tigrão, Lobinha, and Pantera inspired the colors and humor behind GHL.dev.
+<p align="center">
+  <a href="https://ghl-dev.vercel.app/#sobre"><img src="https://ghl-dev.vercel.app/assets/atelier/gatos.png" width="215" alt="Illustration of Tigrão, Lobinha, and Pantera" /></a><br />
+  <strong>Tigrão, Lobinha, and Pantera.</strong> They're behind the colors in my portfolio.
+</p>
